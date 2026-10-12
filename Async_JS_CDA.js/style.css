@@ -1,0 +1,78 @@
+#search { 
+    height:  50px;
+    width: 400px;
+    border-radius: 10px;
+    color: rgb(102, 79, 123);
+    margin-left: 450px;
+    font-size: 20px;
+}
+
+button {
+       height:  50px;
+       width: 150px;
+       border-radius: 5px;
+       font-size: 20px;
+       background-color: rgb(206, 179, 231);
+       color :rgb(135, 56, 210);
+       margin-left: 5px;
+
+}
+
+h1 {
+    color: rgb(135, 56, 210);
+   text-align: center;
+   padding-top: 150px;
+   font-size: 70px;
+}
+
+body{
+
+    background-color: rosybrown;
+
+}
+
+
+/* les pokemon */
+
+.imgOneCl{
+     width: 300px;
+    height: 300px;
+}
+
+.pNameOneCl{
+    color:  rgb(186, 43, 226);
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+
+.pHeightCl {
+   color: rgb(186, 43, 226);
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+.pWeightCl {
+   color:  rgb(186, 43, 226);
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+.imgTwoCl{
+    width: 300px;
+    height: 300px;
+}
+
+.pNameTwoCl{
+    color:  rgb(186, 43, 226);
+    font-size: 20px;
+    margin-left: 100px;
+    
+}
+
+#result {
+    display: flex;
+    flex-direction: row;
+    gap : 30px;
+    margin-left: 400px;
+}
